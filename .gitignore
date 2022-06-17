@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+/결과물
+
+*.dll
+*.xlsx
+*.csv
+
+!상품코드생성_final.ipynb
