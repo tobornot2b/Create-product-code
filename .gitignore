@@ -4,5 +4,6 @@
 *.dll
 *.xlsx
 *.csv
+*.ipynb
 
 !상품코드생성_final.ipynb
